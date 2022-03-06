@@ -1,0 +1,5 @@
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Release\netcoreapp3.1\publish\Ultrasonic Ruler.exe
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Release\netcoreapp3.1\publish\Ultrasonic Ruler.dll
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Release\netcoreapp3.1\publish\Ultrasonic Ruler.deps.json
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Release\netcoreapp3.1\publish\Ultrasonic Ruler.runtimeconfig.json
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Release\netcoreapp3.1\publish\Ultrasonic Ruler.pdb

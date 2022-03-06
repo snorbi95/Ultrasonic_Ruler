@@ -1,0 +1,15 @@
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Debug\netcoreapp3.1\Ultrasonic Ruler.exe
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Debug\netcoreapp3.1\Ultrasonic Ruler.deps.json
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Debug\netcoreapp3.1\Ultrasonic Ruler.runtimeconfig.json
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Debug\netcoreapp3.1\Ultrasonic Ruler.runtimeconfig.dev.json
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Debug\netcoreapp3.1\Ultrasonic Ruler.dll
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\bin\Debug\netcoreapp3.1\Ultrasonic Ruler.pdb
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.csprojAssemblyReference.cache
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic_Ruler.MainWindow.resources
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.csproj.GenerateResource.cache
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.AssemblyInfoInputs.cache
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.AssemblyInfo.cs
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.csproj.CoreCompileInputs.cache
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.dll
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.pdb
+C:\Users\snorb\source\repos\Ultrasonic Ruler\Ultrasonic Ruler\obj\Debug\netcoreapp3.1\Ultrasonic Ruler.genruntimeconfig.cache
